@@ -1,0 +1,22 @@
+name: SkillsTree
+main: me.furthyskills.skillstree.SkillsTreePlugin
+version: '1.0.2'
+api-version: '1.21'
+author: Furthy
+description: A custom skill tree expansion for ProjectKorra.
+
+# This tells the server to load ProjectKorra BEFORE this plugin
+depend: 
+  - ProjectKorra
+  - Vault
+
+commands:
+  st:
+    description: Open the Skill Tree menu.
+    usage: /st
+    permission: skillstree.use
+
+permissions:
+  skillstree.use:
+    description: Allows players to open the skill tree menu.
+    default: true

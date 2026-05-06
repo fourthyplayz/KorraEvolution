@@ -1,0 +1,29 @@
+# SkillsTree Configuration
+# Professional skill tree expansion for ProjectKorra.
+
+# The command to execute when a permission needs to be granted.
+# {player} will be replaced with the player's name.
+# {ability} will be replaced with the internal ability name.
+permission-command: "lp user {player} permission set bending.ability.{ability} true"
+
+# AFK Settings
+# How long before a player is considered AFK (in seconds).
+afk-timeout-seconds: 120
+# Distance the player must move to reset the AFK timer.
+afk-distance-threshold: 10
+
+# World Settings
+# The name of the spawn world where special rules might apply.
+spawn-world-name: "spawn"
+
+# Point Distribution
+# Points awarded to active players.
+passive-points:
+  active: 100
+  afk: 54
+
+# Performance Settings
+# Interval between particle effect updates (in ticks). 20 ticks = 1 second.
+particle-task-interval-ticks: 5
+# Maximum number of particles to spawn per tick (to prevent lag).
+max-particles-per-tick: 100
