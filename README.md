@@ -1,6 +1,7 @@
 # SkillsTree 🌳
 
-![SkillsTree Header](skillstree_header_1778075874541.png)
+> [!WARNING]
+> **Maintenance Notice:** This project is archived and is no longer being maintained. It is provided as-is for educational or historical purposes.
 
 **SkillsTree** is a premium, highly-optimized Minecraft Spigot/Paper plugin that integrates seamlessly with **ProjectKorra** to provide a rich, interactive skill tree experience. Empower your players with custom abilities, cosmetic effects, and a robust progression system.
 
