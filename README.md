@@ -55,4 +55,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-Built with ❤️ by [Furthy](https://github.com/Furthy)
+Built with ❤️ by [Furthy](https://github.com/Fourthyplayz)
+
+
+I AM OT GOING TO MAINTAIN THIS!!!
